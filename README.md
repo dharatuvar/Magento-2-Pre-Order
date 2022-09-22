@@ -1,7 +1,7 @@
 # Magento-2-Pre-Order
 
 
-Allow your customers to order the out of stock products in your store using our  ***[Magento 2 Pre Order](https://meetanshi.com/magento-2-pre-order.html)***extension. It facilitates the customers to order the products in quantities higher than available in your Magento 2 store.
+Allow your customers to order the out of stock products in your store using our  ***[Magento 2 Pre Order](https://meetanshi.com/magento-2-pre-order.html)*** extension. It facilitates the customers to order the products in quantities higher than available in your Magento 2 store.
 
 Do you sell products that are high in demand and often get out of stock? If yes, then our Magento 2 Pre Order extension can be the absolute solution for your requirements.
 
